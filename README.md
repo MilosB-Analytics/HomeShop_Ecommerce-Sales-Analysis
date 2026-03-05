@@ -14,9 +14,13 @@ The goal of the analysis is to identify **key revenue drivers, customer segments
 ---
 
 <h1 align="center">Executive Summary</h1> 
+<table align="center">
+  <td>
  <div align="center">
         <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/Dashboard.png">
 </div>
+  </td>
+</table>
 
 The analysis highlights **strong year-over-year sales performance**, with revenue steadily increasing throughout the year and peaking in **December with over 530K in sales**. Sales trends indicate a seasonal pattern, with growth accelerating in **Q4**, suggesting strong holiday-driven demand.
 
@@ -35,9 +39,13 @@ Overall, the analysis demonstrates that the company’s growth is driven primari
 - **Top Market:** United States
 - **Top Customer Segment:** Adults
 - **Top Product Category:** Electronics
+<table align="center">
+  <td>
  <div align="center">
         <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/Northstar%20metrics.png">
 </div>
+  </td>
+</table>
 
 ---
 
@@ -54,11 +62,13 @@ Customer purchasing behavior shows a clear concentration in older age groups.
 
 
 
-
+<table align="center">
+  <td>
  <div align="center">
         <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/Age.png">
 </div>
-
+  </td>
+</table>
 💡 **Insight:** The majority of company revenue is driven by **working-age consumers**, suggesting marketing strategies should prioritize these demographics.
 
 ### Monthly Sales Performance (Current vs Previous Year)
@@ -74,50 +84,84 @@ The **current year slightly outperforms the previous year in most months**, sign
 
 
 
-
+<table align="center">
+  <td>
  <div align="center">
         <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/Revenue.png">
 </div>
-
+  </td>
+</table>
 💡 **Insight:** The data suggests **seasonal demand peaks in the final quarter**, likely driven by holiday shopping behavior.
 
-### Product Category Performance
+### Product Category Performance (2023 vs 2024)
 
-Product sales are unevenly distributed, with a few categories dominating revenue.
+Category analysis comparing **2023 and 2024 sales performance** reveals consistent product leaders as well as several seasonal shifts in category demand.
 
-Top performing categories:
+#### Category Leaders
 
-| Category | Sales |
+The top-performing product categories remain **consistent across both years**, indicating stable customer demand.
+
+| Category | Performance Insight |
 |--------|--------|
-| Electronics | ~1.25M |
-| Jewelry | ~631K |
-| Automotive | ~368K |
+| Electronics | Highest revenue generating category in both years |
+| Jewelry | Strong and consistent secondary revenue driver |
+| Automotive | Maintains a solid position among the top categories |
 
-These three categories generate a **significant portion of overall company revenue**.
-
-Mid-performing categories include:
-- Home & Garden
-- Sports
-- Clothing
-- Health
-- Software
-- Pet Supplies
-
-Lower-performing categories include:
-- Beauty
-- Toys
-- Office Supplies
-- Music
-- Food & Grocery
-- Books
+These categories continue to generate the largest share of total sales, suggesting they are **core revenue drivers for the business**.
 
 
 
+---
+
+#### Mid-Tier Category Competition
+
+A noticeable dynamic appears between **Sports and Clothing categories** when comparing seasonal performance.
+
+- **Clothing outperforms Sports during the first half of the year (Q1–Q2)**.
+- **Sports surpasses Clothing during the second half of the year (Q3–Q4)**.
+
+This shift suggests **seasonal consumer demand patterns**, potentially influenced by:
+
+- Warmer weather and outdoor activities increasing sports-related purchases
+- Seasonal apparel purchasing cycles earlier in the year
+
+
+
+---
+
+#### Year-over-Year Sales Comparison
+
+While category rankings remain stable, there are noticeable differences between the two years.
+
+- **2023 shows higher peak sales compared to 2024**, indicating stronger overall category performance during peak months.
+- **2024 sales remain slightly lower but follow a similar trend pattern**, suggesting stable demand but slightly reduced peak activity.
+
+
+
+---
+
+#### Seasonal Performance Patterns
+
+Both years demonstrate **similar seasonal behavior across product categories**.
+
+- **Q1–Q2:** Clothing and general consumer goods perform steadily.
+- **Q3–Q4:** Overall category sales increase, with **Sports and high-demand product segments gaining momentum**.
+- The **strongest sales periods occur during Q3 and Q4**, aligning with seasonal demand and year-end shopping periods.
+
+
+
+---
+<table align="center">
+  <td>
  <div align="center">
         <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/Product.png">
 </div>
-
-💡 **Insight:** **Electronics significantly outperforms other categories**, suggesting it is th
+    </td>
+</table>
+<br>💡 **Insight:** Seasonal demand plays a significant role in category performance, with **late-year quarters generating the highest sales activity**.
+<br>💡 **Insight:** Although the overall category hierarchy remains unchanged, **2023 experienced stronger peak demand than 2024**.
+<br>💡 **Insight:** Demand for Sports products strengthens later in the year, while Clothing performs more strongly in earlier quarters.
+<br>💡 **Insight:** The stability of these top categories indicates strong and predictable demand patterns.
 
 ### Geographic Sales Distribution
 
@@ -144,7 +188,10 @@ The analysis highlights several key business opportunities:
 
 - Prioritize **US market retention and expansion**.
 - Focus marketing efforts on **Adult and Young Adult customers**, who generate the majority of revenue.
-- Continue investing in **high-performing categories such as Electronics and Jewelry**.
 - Leverage **seasonal demand spikes in Q4** with targeted promotions and inventory planning.
+- Continue prioritizing **Electronics and Jewelry**, as they remain the strongest revenue generators.
+- Plan **inventory and marketing strategies around Q3–Q4 demand peaks**.
+- Leverage the **seasonal strength of Sports products in later quarters**.
+- Optimize **Clothing promotions earlier in the year (Q1–Q2)** to align with demand cycles.
 
 ---
