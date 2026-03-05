@@ -1,4 +1,10 @@
-# Global E-Commerce Sales Analysis
+<h1 align="center">HomesShop Sales Growth Analysis</h1>
+
+<div align="center">
+  <img width="520px" src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/Logo.png" />
+</div>
+
+
 
 ## Project Overview
 This project analyzes global e-commerce sales data using **Power Bi** to evaluate sales performance, customer demographics, product category trends, and year-over-year growth.
@@ -7,7 +13,10 @@ The goal of the analysis is to identify **key revenue drivers, customer segments
 
 ---
 
-## Executive Summary
+<h1 align="center">Executive Summary</h1> 
+ <div align="center">
+        <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/Dashboard.png">
+</div>
 
 The analysis highlights **strong year-over-year sales performance**, with revenue steadily increasing throughout the year and peaking in **December with over 530K in sales**. Sales trends indicate a seasonal pattern, with growth accelerating in **Q4**, suggesting strong holiday-driven demand.
 
