@@ -34,6 +34,17 @@ Overall, the analysis demonstrates that the company’s growth is driven primari
 
 ---
 
+<h1 align="center">Entity Relationship Diagram - ERD</h1> 
+<table align="center">
+  <td>
+ <div align="center">
+        <img  src="https://github.com/MilosB-Analytics/MilosB-Analytics/blob/main/Images/HomeShop/ERD.png">
+</div>
+  </td>
+</table>
+
+---
+
 ## Key Metrics
 - **Total Revenue:** ~4.7M
 - **Top Market:** United States
