@@ -82,12 +82,3 @@ Lower revenue categories include:
 - Seasonal demand peaks in **Q4**, suggesting opportunities for targeted marketing campaigns and inventory planning.
 
 ---
-
-## Dashboard Preview
-*(Insert dashboard screenshots here)*
-
----
-
-## Author
-Stani  
-Aspiring Data Analyst focused on **SQL, Excel, and Power BI analytics projects**
