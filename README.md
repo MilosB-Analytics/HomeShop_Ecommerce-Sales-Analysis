@@ -158,10 +158,10 @@ Both years demonstrate **similar seasonal behavior across product categories**.
 </div>
     </td>
 </table>
-<br>💡 **Insight:** Seasonal demand plays a significant role in category performance, with **late-year quarters generating the highest sales activity**.
-<br>💡 **Insight:** Although the overall category hierarchy remains unchanged, **2023 experienced stronger peak demand than 2024**.
-<br>💡 **Insight:** Demand for Sports products strengthens later in the year, while Clothing performs more strongly in earlier quarters.
-<br>💡 **Insight:** The stability of these top categories indicates strong and predictable demand patterns.
+<br> 💡 <strong>Insight:</strong> Seasonal demand plays a significant role in category performance, with **late-year quarters generating the highest sales activity**.
+<br> 💡 <strong>Insight:</strong> Although the overall category hierarchy remains unchanged, **2023 experienced stronger peak demand than 2024**.
+<br> 💡 <strong>Insight:</strong> Demand for Sports products strengthens later in the year, while Clothing performs more strongly in earlier quarters.
+<br> 💡 <strong>Insight:</strong> The stability of these top categories indicates strong and predictable demand patterns.
 
 ### Geographic Sales Distribution
 
